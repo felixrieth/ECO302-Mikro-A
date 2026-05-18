@@ -17,7 +17,7 @@ except ImportError:
 
 st.set_page_config(page_title="ECO302 Mikro A Exam Dashboard", layout="wide")
 
-MANNHEIM_LOGO_URL = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Uni-mannheim.svg/640px-Uni-mannheim.svg.png"
+MANNHEIM_LOGO_URL = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Uni-mannheim.svg/500px-Uni-mannheim.svg.png"
 
 st.markdown(
     """
