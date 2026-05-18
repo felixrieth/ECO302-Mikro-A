@@ -17,8 +17,6 @@ except ImportError:
 
 st.set_page_config(page_title="ECO302 Mikro A Exam Dashboard", layout="wide")
 
-MANNHEIM_LOGO_URL = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Uni-mannheim.svg/500px-Uni-mannheim.svg.png"
-
 st.markdown(
     """
     <style>
@@ -56,20 +54,6 @@ st.markdown(
         padding: 0 0 0.75rem 0;
         background: transparent;
         border-bottom: 1px solid rgba(49, 51, 63, 0.12);
-    }
-    .app-title-row {
-        display: flex;
-        align-items: center;
-        gap: 1rem;
-        margin: 0 0 0.45rem 0;
-    }
-    .app-title-row img {
-        width: clamp(150px, 18vw, 240px);
-        height: auto;
-        flex: 0 0 auto;
-    }
-    .app-title-row h1 {
-        margin: 0 !important;
     }
     div[data-testid="stTextInput"]:has(input[aria-label="Search all questions"]) {
         margin-top: 0.35rem;
@@ -322,15 +306,7 @@ if "selected_key" not in st.session_state or st.session_state.selected_key not i
     st.session_state.selected_key = first_question_key(questions)
 
 st.markdown('<div class="search-shell">', unsafe_allow_html=True)
-st.markdown(
-    f"""
-    <div class="app-title-row">
-        <img src="{MANNHEIM_LOGO_URL}" alt="Universität Mannheim logo">
-        <h1>ECO302 Mikroökonomik A</h1>
-    </div>
-    """,
-    unsafe_allow_html=True,
-)
+st.title("ECO302 Mikroökonomik A")
 search_query = st.text_input(
     "Search all questions",
     placeholder="2021 T2 Aufgabe 3, 2023 T1 14, Cobb Douglas, Edgeworth...",
