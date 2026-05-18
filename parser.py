@@ -113,7 +113,9 @@ def normalize_text(text: str) -> str:
 
 
 def answer_choice_count(text: str) -> int:
-    return len(re.findall(r"(?im)^\s*(?:\([a-e]\)|[a-e][\).:])\s+", text))
+    line_start_choices = re.findall(r"(?im)^\s*(?:\([a-e]\)|[a-e][\).:])\s+", text)
+    inline_choices = re.findall(r"(?i)(?:^|\s)\([a-e]\)\s+", text)
+    return max(len(line_start_choices), len(inline_choices))
 
 
 def clean_fragment(text: str) -> str:
@@ -161,6 +163,11 @@ def locate_question_regions(pdf_path: Path) -> dict[int, list[dict[str, Any]]]:
                     line_text = "".join(span.get("text", "") for span in line.get("spans", [])).strip()
                     match = header_re.match(line_text)
                     if not match:
+                        continue
+                    # Real task headers are left-aligned in the page margin.
+                    # Continuation/math lines can also begin with "2." or "2 )"
+                    # after text extraction, but they are indented further right.
+                    if float(line["bbox"][0]) > 90:
                         continue
                     raw_candidates.append(
                         {

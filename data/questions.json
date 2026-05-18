@@ -7,8 +7,20 @@
     "answer_choices": {},
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
-    "pdf_regions": [],
-    "page_number": null
+    "pdf_regions": [
+      {
+        "page_index": 2,
+        "page_number": 3,
+        "rect": [
+          45.0,
+          92.94,
+          560.28,
+          276.26
+        ],
+        "cropped": true
+      }
+    ],
+    "page_number": 3
   },
   "2020_T1_A2": {
     "year": "2020",
@@ -896,18 +908,18 @@
     "source_file": "Mikro A_2020_2.pdf",
     "pdf_regions": [
       {
-        "page_index": 6,
-        "page_number": 7,
+        "page_index": 2,
+        "page_number": 3,
         "rect": [
           45.0,
-          231.61,
+          193.54,
           560.28,
-          340.09
+          365.46
         ],
         "cropped": true
       }
     ],
-    "page_number": 7
+    "page_number": 3
   },
   "2020_T2_A3": {
     "year": "2020",
@@ -1221,7 +1233,7 @@
           45.0,
           92.92,
           560.28,
-          205.28
+          193.33
         ],
         "cropped": true
       }
@@ -1236,8 +1248,20 @@
     "answer_choices": {},
     "solution": "",
     "source_file": "Mikro A_2020_2.pdf",
-    "pdf_regions": [],
-    "page_number": null
+    "pdf_regions": [
+      {
+        "page_index": 4,
+        "page_number": 5,
+        "rect": [
+          45.0,
+          193.33,
+          560.28,
+          339.69
+        ],
+        "cropped": true
+      }
+    ],
+    "page_number": 5
   },
   "2020_T2_A15": {
     "year": "2020",
@@ -1522,7 +1546,7 @@
           45.0,
           92.04,
           560.28,
-          231.61
+          208.33
         ],
         "cropped": true
       }
@@ -1543,8 +1567,20 @@
     },
     "solution": "c",
     "source_file": "Mikro A_2020_2.pdf",
-    "pdf_regions": [],
-    "page_number": null
+    "pdf_regions": [
+      {
+        "page_index": 6,
+        "page_number": 7,
+        "rect": [
+          45.0,
+          208.33,
+          560.28,
+          340.09
+        ],
+        "cropped": true
+      }
+    ],
+    "page_number": 7
   },
   "2020_T2_A26": {
     "year": "2020",
@@ -1705,20 +1741,8 @@
     },
     "solution": "c",
     "source_file": "Mikro A_2021_1.pdf",
-    "pdf_regions": [
-      {
-        "page_index": 3,
-        "page_number": 4,
-        "rect": [
-          45.0,
-          382.38,
-          560.28,
-          503.9
-        ],
-        "cropped": true
-      }
-    ],
-    "page_number": 4
+    "pdf_regions": [],
+    "page_number": null
   },
   "2021_T1_A1": {
     "year": "2021",
@@ -1916,7 +1940,7 @@
           45.0,
           237.99,
           560.28,
-          382.38
+          359.35
         ],
         "cropped": true
       }
@@ -1931,8 +1955,20 @@
     "answer_choices": {},
     "solution": "",
     "source_file": "Mikro A_2021_1.pdf",
-    "pdf_regions": [],
-    "page_number": null
+    "pdf_regions": [
+      {
+        "page_index": 3,
+        "page_number": 4,
+        "rect": [
+          45.0,
+          359.35,
+          560.28,
+          503.9
+        ],
+        "cropped": true
+      }
+    ],
+    "page_number": 4
   },
   "2021_T1_A9": {
     "year": "2021",
@@ -5192,18 +5228,18 @@
     "source_file": "Mikro A_2023_1.pdf",
     "pdf_regions": [
       {
-        "page_index": 3,
-        "page_number": 4,
+        "page_index": 2,
+        "page_number": 3,
         "rect": [
           45.0,
-          131.71,
+          107.87,
           560.28,
-          271.22
+          244.34
         ],
         "cropped": true
       }
     ],
-    "page_number": 4
+    "page_number": 3
   },
   "2023_T1_A2": {
     "year": "2023",
@@ -5306,8 +5342,20 @@
     },
     "solution": "e",
     "source_file": "Mikro A_2023_1.pdf",
-    "pdf_regions": [],
-    "page_number": null
+    "pdf_regions": [
+      {
+        "page_index": 3,
+        "page_number": 4,
+        "rect": [
+          45.0,
+          107.87,
+          560.28,
+          271.22
+        ],
+        "cropped": true
+      }
+    ],
+    "page_number": 4
   },
   "2023_T1_A6": {
     "year": "2023",
@@ -6079,18 +6127,18 @@
     "source_file": "Mikro A_2023_2.pdf",
     "pdf_regions": [
       {
-        "page_index": 7,
-        "page_number": 8,
+        "page_index": 2,
+        "page_number": 3,
         "rect": [
           45.0,
-          220.59,
+          232.46,
           560.28,
-          322.93
+          333.13
         ],
         "cropped": true
       }
     ],
-    "page_number": 8
+    "page_number": 3
   },
   "2023_T2_A3": {
     "year": "2023",
@@ -6142,17 +6190,6 @@
           515.89,
           560.28,
           806.89
-        ],
-        "cropped": true
-      },
-      {
-        "page_index": 3,
-        "page_number": 4,
-        "rect": [
-          45.0,
-          35.0,
-          560.28,
-          107.87
         ],
         "cropped": true
       }
@@ -6500,7 +6537,7 @@
           45.0,
           352.23,
           560.28,
-          487.56
+          477.49
         ],
         "cropped": true
       }
@@ -6515,8 +6552,20 @@
     "answer_choices": {},
     "solution": "",
     "source_file": "Mikro A_2023_2.pdf",
-    "pdf_regions": [],
-    "page_number": null
+    "pdf_regions": [
+      {
+        "page_index": 5,
+        "page_number": 6,
+        "rect": [
+          45.0,
+          477.49,
+          560.28,
+          589.24
+        ],
+        "cropped": true
+      }
+    ],
+    "page_number": 6
   },
   "2023_T2_A18": {
     "year": "2023",
@@ -6714,7 +6763,7 @@
           45.0,
           107.87,
           560.28,
-          220.59
+          218.77
         ],
         "cropped": true
       }
@@ -6735,8 +6784,20 @@
     },
     "solution": "c",
     "source_file": "Mikro A_2023_2.pdf",
-    "pdf_regions": [],
-    "page_number": null
+    "pdf_regions": [
+      {
+        "page_index": 7,
+        "page_number": 8,
+        "rect": [
+          45.0,
+          218.77,
+          560.28,
+          322.93
+        ],
+        "cropped": true
+      }
+    ],
+    "page_number": 8
   },
   "2023_T2_A26": {
     "year": "2023",
@@ -6903,9 +6964,9 @@
         "page_number": 1,
         "rect": [
           45.0,
-          330.89,
+          183.55,
           560.28,
-          420.71
+          306.98
         ],
         "cropped": true
       }
@@ -6922,18 +6983,18 @@
     "source_file": "Mikro A_2024_1_Uebung.pdf",
     "pdf_regions": [
       {
-        "page_index": 3,
-        "page_number": 4,
+        "page_index": 0,
+        "page_number": 1,
         "rect": [
           45.0,
-          642.16,
+          306.98,
           560.28,
-          806.89
+          420.71
         ],
         "cropped": true
       }
     ],
-    "page_number": 4
+    "page_number": 1
   },
   "2024_T1_A3": {
     "year": "2024",
@@ -7421,7 +7482,7 @@
           45.0,
           482.14,
           560.28,
-          642.16
+          594.87
         ],
         "cropped": true
       }
@@ -7442,8 +7503,20 @@
     },
     "solution": "e",
     "source_file": "Mikro A_2024_1_Uebung.pdf",
-    "pdf_regions": [],
-    "page_number": null
+    "pdf_regions": [
+      {
+        "page_index": 3,
+        "page_number": 4,
+        "rect": [
+          45.0,
+          594.87,
+          560.28,
+          806.89
+        ],
+        "cropped": true
+      }
+    ],
+    "page_number": 4
   },
   "2024_T1_A21": {
     "year": "2024",
@@ -7612,7 +7685,7 @@
           45.0,
           107.87,
           560.28,
-          344.75
+          219.78
         ],
         "cropped": true
       }
@@ -7633,8 +7706,20 @@
     },
     "solution": "b",
     "source_file": "Mikro A_2024_1_Uebung.pdf",
-    "pdf_regions": [],
-    "page_number": null
+    "pdf_regions": [
+      {
+        "page_index": 5,
+        "page_number": 6,
+        "rect": [
+          45.0,
+          219.78,
+          560.28,
+          344.75
+        ],
+        "cropped": true
+      }
+    ],
+    "page_number": 6
   },
   "2024_T1_A28": {
     "year": "2024",
@@ -7739,18 +7824,18 @@
     "source_file": "Mikro A_2024_2_Uebung.pdf",
     "pdf_regions": [
       {
-        "page_index": 1,
-        "page_number": 2,
+        "page_index": 0,
+        "page_number": 1,
         "rect": [
           45.0,
-          141.04,
+          194.39,
           560.28,
-          243.69
+          294.86
         ],
         "cropped": true
       }
     ],
-    "page_number": 2
+    "page_number": 1
   },
   "2024_T2_A2": {
     "year": "2024",
@@ -7882,8 +7967,20 @@
     },
     "solution": "b",
     "source_file": "Mikro A_2024_2_Uebung.pdf",
-    "pdf_regions": [],
-    "page_number": null
+    "pdf_regions": [
+      {
+        "page_index": 1,
+        "page_number": 2,
+        "rect": [
+          45.0,
+          107.87,
+          560.28,
+          243.69
+        ],
+        "cropped": true
+      }
+    ],
+    "page_number": 2
   },
   "2024_T2_A7": {
     "year": "2024",
