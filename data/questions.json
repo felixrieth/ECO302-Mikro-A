@@ -3,7 +3,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 1,
-    "question_text": "Consider an Edgeworth exchange economy. One half of the consumers has preferences that\nare represented by the utility function uA(x1, x2) = (x1)cx2, where c > 0 is a given parameter.\nThe other half of the consumers has preferences that are represented by the utility function\nuB(x1, x2) = min{x1, x2}. Every consumer has an initial endowment of (10, 10). The prices of\nthe goods are denoted p1 and p2. After plugging in all individual demands, the market clearing\ncondition for good 1 can be written as follows:\n\n1 = 2. (a) c+1c 1 + p1p2 +\n1 = 2. (b) c+11 1 + p1p2 +\n10 = 20. (c) c+11 1 + p1p2 +\n10 = 20. (d) c+1c 1 + p1p2 +\n10 = 20. (e) c+1c 1 + p2p1 +",
+    "question_text": "Betrachten Sie eine Edgeworth-Tauschökonomie. Die eine Hälfte der Konsumenten hat Präferenzen, die durch die Nutzenfunktion uA(x1, x2) = (x1)cx2 dargestellt werden, wobei c > 0 ein\nvorgegebener Parameter ist. Die andere Hälfte der Konsumenten hat Präferenzen, die durch\ndie Nutzenfunktion uB(x1, x2) = min{x1, x2} dargestellt werden. Jeder Konsument hat die\nErstausstattung (10, 10). Die Preise der Güter werden mit p1 und p2 bezeichnet. Die Markträumungsgleichung für Gut 1 kann, nach Einsetzen aller individuellen Nachfragen, wie folgt\ndargestellt werden:\n\n1 = 2. (a) c+1c 1 + p1p2 +\n1 = 2. (b) c+11 1 + p1p2 +\n10 = 20. (c) c+11 1 + p1p2 +\n10 = 20. (d) c+1c 1 + p1p2 +\n10 = 20. (e) c+1c 1 + p2p1 +",
     "answer_choices": {},
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -13,9 +13,9 @@
         "page_number": 3,
         "rect": [
           45.0,
-          92.94,
+          92.97,
           560.28,
-          276.26
+          288.21
         ],
         "cropped": true
       }
@@ -26,13 +26,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 2,
-    "question_text": "A consumer has Cobb-Douglas preferences. The marginal rate of substitutions at the point\n(x1, x2) = (3, 2) equals −4/5. The preferences can be represented by the following utility\nfunction",
+    "question_text": "Ein Konsument hat Cobb-Douglas-Präferenzen. Die Grenzrate der Substitution an der Stelle (x1, x2) = (3, 2) beträgt −4/5. Die Präferenzen können durch folgende Nutzenfunktion\ndargestellt werden",
     "answer_choices": {
       "a": "u(x1, x2) = (x1)12(x2)10",
       "b": "u(x1, x2) = (x1)10(x2)12",
       "c": "u(x1, x2) = (x1)8(x2)15",
       "d": "u(x1, x2) = (x1)15(x2)8",
-      "e": "None of the other answers is correct"
+      "e": "keine der anderen n"
     },
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -42,9 +42,9 @@
         "page_number": 3,
         "rect": [
           45.0,
-          276.26,
+          288.21,
           560.28,
-          387.72
+          399.67
         ],
         "cropped": true
       }
@@ -55,7 +55,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 3,
-    "question_text": "A consumer’s preferences are represented by the utility function u(x1, x2) = max{x1, 3x2}. If\nthe price of good 2 is three times the price of good 1, that is, 3p1 = p2, and if Y denotes the\nconsumer’s income, then the set of utility-maximizing bundles equals",
+    "question_text": "Ein Konsument hat Präferenzen, die durch die Nutzenfunktion u(x1, x2) = max{x1, 3x2} dargestellt werden. Wenn Gut 2 dreimal so teuer ist wie Gut 1, d.h. 3p1 = p2, und Y das Einkommen\ndes Konsumenten bezeichnet, dann ist die Menge der Nutzen-maximierenden Güterbündel\ngleich",
     "answer_choices": {
       "a": "{(0, Y ), ( Y , 0)} 3p1 p1",
       "b": "{λ(0, Y ) + (1 −λ)( Y , 0)}|0 ≤λ ≤1} 3p1 p1",
@@ -71,9 +71,9 @@
         "page_number": 3,
         "rect": [
           45.0,
-          387.72,
+          399.67,
           560.28,
-          520.61
+          544.52
         ],
         "cropped": true
       }
@@ -84,13 +84,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 4,
-    "question_text": "Jevon’s law is violated in a market if",
+    "question_text": "Jevons Gesetz ist in einem Markt für ein Gut verletzt, wenn",
     "answer_choices": {
-      "a": "there are many traders in this market",
-      "b": "all market transactions take place on the same market platform",
-      "c": "the price or prices used in the various transactions are fully transparent",
-      "d": "the market clears",
-      "e": "the price used in one half of the market transactions is considerably higher than the price\nused in the other half of the transactions"
+      "a": "sehr viele Händler in dem Markt interagieren",
+      "b": "alle Transaktionen auf dem gleichen Marktplatz stattﬁnden",
+      "c": "die Stückpreise aller Transaktionen für alle Händler transparent sind",
+      "d": "der Markt geräumt wird",
+      "e": "die eine Hälfte der Transaktionen zu einem deutlich höheren Stückpreis durchgeführt\nwerden als die andere Hälfte"
     },
     "solution": "e",
     "source_file": "Mikro A_2020_1.pdf",
@@ -100,9 +100,9 @@
         "page_number": 3,
         "rect": [
           45.0,
-          520.61,
+          544.52,
           560.28,
-          618.69
+          642.53
         ],
         "cropped": true
       }
@@ -113,13 +113,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 5,
-    "question_text": "Consider an exchange economy with two goods and 30 traders. 20 traders have preferences that\nare represented by the utility function uA(x1, x2) = x1x2. Each of these traders has the initial\nendowment (1, 0). The remaining 10 traders have preferences that are represented by the utility\nfunction uB(x1, x2) = x1(x2)d, where d > 0 is a given parameter. Each of these traders has the\ninitial endowment (0, 2). There exists a competitive equilibrium in which the price of both goods\nis the same if d =",
+    "question_text": "Betrachten Sie eine Tauschökonomie mit zwei Gütern und 30 Händlern. 20 Händler haben\nPräferenzen, die durch die Nutzenfunktion uA(x1, x2) = x1x2 dargestellt werden. Jeder dieser\nHändler hat die Erstausstattung (1, 0). Die restlichen 10 Händler haben Präferenzen, die durch\ndie Nutzenfunktion uB(x1, x2) = x1(x2)d dargestellt werden, wobei d > 0 ein vorgegebener\nParameter ist. Jeder dieser Händler hat die Erstausstattung (0, 2). Im Wettbewerbsgleichgewicht\nsind beide Güter gleich teuer, wenn d =",
     "answer_choices": {
       "a": "1",
       "b": "7",
       "c": "3",
       "d": "9",
-      "e": "11\n\nVersion 62 Page 3 of 8\n\nMicroeconomics A\nSpring 2020"
+      "e": "11\n\nVersion 62 Page 3 of 8\n\nMikroökonomik A\nFSS 2020"
     },
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -129,7 +129,7 @@
         "page_number": 3,
         "rect": [
           45.0,
-          618.69,
+          642.53,
           560.28,
           806.89
         ],
@@ -142,7 +142,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 6,
-    "question_text": "Consider an exchange economy with two goods and two individuals, Amelie and Ben. Each\nindividual has the initial endowment (30, 70). Amelie’s preferences are represented by the\nutility function uA(x1, x2) = x1 + x2. Ben’s preferences are represented by the utility function\nuB(x1, x2) = (x1)cx2, where c > 0 is a given parameter. The allocation in which both traders\nkeep their initial endowments is a Pareto efﬁcient allocation if c =",
+    "question_text": "Betrachten Sie eine Tauschökonomie mit zwei Gütern und zwei Individuen, Amelie und Ben.\nJedes Individuum hat die Erstausstattung (30, 70). Amelie hat Präferenzen, die durch die\nNutzenfunktion uA(x1, x2) = x1 + x2 dargestellt werden. Ben hat Präferenzen, die durch die\nNutzenfunktion uB(x1, x2) = (x1)cx2 dargestellt werden, wobei c > 0 ein vorgegebener Parameter ist. Die Allokation, in der beide Händler ihre Erstausstattung behalten, ist Pareto efﬁzient,\nwenn c =",
     "answer_choices": {
       "a": "3/7",
       "b": "3/4",
@@ -158,9 +158,9 @@
         "page_number": 4,
         "rect": [
           45.0,
-          92.94,
+          92.96,
           560.28,
-          228.83
+          240.71
         ],
         "cropped": true
       }
@@ -171,7 +171,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 7,
-    "question_text": "A ﬁrm with the following production function has a non-convex technology",
+    "question_text": "Eine Firma mit der folgenden Produktionsfunktion hat eine nicht-konvexe Technologie",
     "answer_choices": {
       "a": "f (x1, x2) = min{x1 + x2, 2x2}",
       "b": "f (x1, x2) = max{x1, x2}",
@@ -187,9 +187,9 @@
         "page_number": 4,
         "rect": [
           45.0,
-          228.83,
+          240.71,
           560.28,
-          317.58
+          341.49
         ],
         "cropped": true
       }
@@ -200,13 +200,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 8,
-    "question_text": "Let f (x1) be a strictly increasing production function with the single input x1. Suppose that\nf (0) = 0, MP1(0) = 0, the marginal product of the input is strictly increasing in the area from\nx1 = 0 to x1 = 7, and starting from the point x1 = 7 the marginal product is strictly decreasing\nwith limx1→∞MP1(x1) = 0. Let xD denote the point where the average product is maximal.\nThen the following holds",
+    "question_text": "Sei f (x1) eine strikt wachsende Produktionsfunktion mit einem einzigen Input x1. Es gelte\nf (0) = 0, GP1(0) = 0, das Grenzprodukt des Inputs ist strikt wachsend im Bereich von x1 = 0\nbis x1 = 7, und das Grenzprodukt ist ab der Stelle x1 = 7 strikt fallend mit limx1→∞GP1(x1) = 0.\nSei xD die Stelle, an der das Durchschnittsprodukt am größten ist. Dann gilt",
     "answer_choices": {
       "a": "0 < xD < 7",
       "b": "xD > 7",
       "c": "xD = 0",
       "d": "xD = 7",
-      "e": "xD can be any non-negative number"
+      "e": "xD kann jede nicht-negative Zahl sein"
     },
     "solution": "b",
     "source_file": "Mikro A_2020_1.pdf",
@@ -216,9 +216,9 @@
         "page_number": 4,
         "rect": [
           45.0,
-          317.58,
+          341.49,
           560.28,
-          454.77
+          466.72
         ],
         "cropped": true
       }
@@ -229,13 +229,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 9,
-    "question_text": "A ﬁrm has the production function f (x1, x2) = x1 + (x2)2. The input prices are p1 = p2 = 1. Let\nC(q) denote the ﬁrm’s cost function. Then the following holds",
+    "question_text": "Eine Firma hat die Produktionsfunktion f (x1, x2) = x1 + (x2)2. Die Preise der Inputs sind\np1 = p2 = 1. Sei C(q) die Kostenfunktion der Firma. Dann gilt folgendes",
     "answer_choices": {
-      "a": "C(q) = √q for all q > 1",
-      "b": "C(q) = √q for all q < 1",
-      "c": "C(q) = q2 for all q > 1",
-      "d": "C(q) = q2 for all q < 1",
-      "e": "None of the other answers is correct"
+      "a": "C(q) = √q für alle q > 1",
+      "b": "C(q) = √q für alle q < 1",
+      "c": "C(q) = q2 für alle q > 1",
+      "d": "C(q) = q2 für alle q < 1",
+      "e": "keine der anderen n ist richtig"
     },
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -245,9 +245,9 @@
         "page_number": 4,
         "rect": [
           45.0,
-          454.77,
+          466.72,
           560.28,
-          557.18
+          569.86
         ],
         "cropped": true
       }
@@ -258,13 +258,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 10,
-    "question_text": "A ﬁrm has setup costs of 10. In the area 0 < q < 10, the marginal cost function satisﬁes the\ninequality 1 < MC(q) < 2. Then the following holds for the average cost function at the point\nq = 10",
+    "question_text": "Eine Firma hat Setup-Kosten in Höhe von 10. Im Bereich 0 < q < 10 gilt für die Grenzkosten\ndie Ungleichung 1 < GK(q) < 2. Dann gilt für die Durchschnittskosten an der Stelle q =\n10",
     "answer_choices": {
-      "a": "2 < AC(10) < 3",
-      "b": "0 < AC(10) < 1",
-      "c": "1 < AC(10) < 2",
-      "d": "3 < AC(10) < 4",
-      "e": "none of the other answers is correct"
+      "a": "2 < DK(10) < 3",
+      "b": "0 < DK(10) < 1",
+      "c": "1 < DK(10) < 2",
+      "d": "3 < DK(10) < 4",
+      "e": "keine der anderen n ist richtig"
     },
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -274,9 +274,9 @@
         "page_number": 4,
         "rect": [
           45.0,
-          557.18,
+          569.86,
           560.28,
-          669.99
+          683.46
         ],
         "cropped": true
       }
@@ -287,13 +287,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 11,
-    "question_text": "If ﬁrm’s production function has decreasing returns to scale, then the average-cost function\nis",
+    "question_text": "Wenn die Produktionsfunktion einer Firma abnehmende Skalenerträge hat, dann ist die Durchschnittskostenfunktion",
     "answer_choices": {
-      "a": "strictly increasing",
-      "b": "strictly decreasing",
-      "c": "U-shaped",
-      "d": "constant",
-      "e": "none of the other answers is correct\n\nVersion 62 Page 4 of 8\n\nMicroeconomics A\nSpring 2020"
+      "a": "strikt wachsend",
+      "b": "strikt fallend",
+      "c": "U-förmig",
+      "d": "konstant",
+      "e": "keine der anderen n ist richtig\n\nVersion 62 Page 4 of 8\n\nMikroökonomik A\nFSS 2020"
     },
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -303,7 +303,7 @@
         "page_number": 4,
         "rect": [
           45.0,
-          669.99,
+          683.46,
           560.28,
           806.89
         ],
@@ -316,13 +316,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 12,
-    "question_text": "A ﬁrm has the average-cost function AC(q) = 2 + (q −1)2. Then the following\nholds",
+    "question_text": "Eine Firma hat die Durchschnittskostenfunktion DK(q) = 2 + (q −1)2. Dann gilt folgendes",
     "answer_choices": {
-      "a": "At any output price larger than 2, the proﬁt-maximizing quantity is larger than 1",
-      "b": "At any output price larger than 1, the proﬁt-maximizing quantity is larger than 2",
-      "c": "At any output price larger than 1/2, the proﬁt-maximizing quantity is larger than 1",
-      "d": "At any output price larger than 1/2, the proﬁt-maximizing quantity is larger than 2",
-      "e": "none of the other answers is correct"
+      "a": "Bei einem Outputpreis größer als 2 ist die gewinnmaximierende Menge größer als 1",
+      "b": "Bei einem Outputpreis größer als 1 ist die gewinnmaximierende Menge größer als 2",
+      "c": "Bei einem Outputpreis größer als 1/2 ist die gewinnmaximierende Menge größer als 1",
+      "d": "Bei einem Outputpreis größer als 1/2 ist die gewinnmaximierende Menge größer als 2",
+      "e": "Keine der anderen n ist richtig"
     },
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -332,9 +332,9 @@
         "page_number": 5,
         "rect": [
           45.0,
-          92.04,
+          91.11,
           560.28,
-          190.99
+          191.63
         ],
         "cropped": true
       }
@@ -345,7 +345,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 13,
-    "question_text": "A ﬁrm has the marginal-cost function MC(q) = q3 and has the setup cost 5. Then the ﬁrm’s cost\nfunction is",
+    "question_text": "Eine Firma hat die Grenzkostenfunktion GK(q) = q3 und hat die Setup-Kosten 5. Dann ist die\nKostenfunktion der Firma die Funktion",
     "answer_choices": {
       "a": "C(q) = q4/4 + 5",
       "b": "C(q) = q4/4",
@@ -361,9 +361,9 @@
         "page_number": 5,
         "rect": [
           45.0,
-          190.99,
+          191.63,
           560.28,
-          294.78
+          295.5
         ],
         "cropped": true
       }
@@ -374,7 +374,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 14,
-    "question_text": "Consider a market supply function S(p) such that S(20) = 80 and the price elasticity η(20) = 1.\nUsing this elasticity, the quantity supplied at the price 21 can be estimated to be approximately\nequal to",
+    "question_text": "Betrachten Sie ein Marktangebot S(p), so dass S(20) = 80 und die Preiselastizität η(20) = 1. Die\nAnzahl der angebotenen Einheiten beim Preis 21 kann mit der angegebenen Elastizität geschätzt\nwerden auf ungefähr",
     "answer_choices": {
       "a": "84",
       "b": "82",
@@ -390,9 +390,9 @@
         "page_number": 5,
         "rect": [
           45.0,
-          294.78,
+          295.5,
           560.28,
-          406.69
+          408.95
         ],
         "cropped": true
       }
@@ -403,13 +403,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 15,
-    "question_text": "In a quasilinear economy there are 20 consumers. Each consumer i = 1, . . . , 20 has the\nwillingness-to-pay function vi(xi) = (xi)1/3, where xi is the number of units consumed of\ngood 1. The market demand for good 1 is",
+    "question_text": "In einer quasilinearen Ökonomie gibt es 20 Konsumenten. Jeder Konsument i = 1, . . . , 20 hat\ndie Zahlungsbereitschaftsfunktion vi(xi) = (xi)1/3, wobei xi die Anzahl der konsumierten\nEinheiten von Gut 1 bezeichnet. Die Marktnachfrage für Gut 1 ist",
     "answer_choices": {
       "a": "D(p) = 20(1/(3p))3/2",
       "b": "D(p) = 20(3p)3/2",
       "c": "D(p) = 20(1/(3p))2/3",
       "d": "D(p) = 20(3p)2/3",
-      "e": "none of the other answers is correct"
+      "e": "Keine der anderen n ist richtig"
     },
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -419,9 +419,9 @@
         "page_number": 5,
         "rect": [
           45.0,
-          406.69,
+          408.95,
           560.28,
-          519.5
+          524.03
         ],
         "cropped": true
       }
@@ -432,7 +432,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 16,
-    "question_text": "Consider a quasilinear economy with free entry. Every ﬁrm has the average-cost function\nAC(q) = 5 + (q −3)4. Then the market supply quantity at the price p = 5 is an integer multiple\nof the number",
+    "question_text": "In einer quasilinearen Ökonomie gibt es freien Markteintritt. Dabei hat jede Firma die Durchschnittskostenfunktion DK(q) = 5 + (q −3)4. Die Marktangebotsmenge beim Preis p = 5 ist\ndann ein ganzzahliges Vielfaches der Zahl",
     "answer_choices": {
       "a": "1",
       "b": "2",
@@ -448,9 +448,9 @@
         "page_number": 5,
         "rect": [
           45.0,
-          519.5,
+          524.03,
           560.28,
-          631.47
+          637.51
         ],
         "cropped": true
       }
@@ -461,13 +461,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 17,
-    "question_text": "Suppose that, in a quasilinear economy, the demand increases and the supply decreases. Then\nthe following cannot happen",
+    "question_text": "Wenn in einer quasilinearen Ökonomie die Nachfrage zunimmt und gleichzeitig das Angebot\nabnimmt, dann kann folgendes nicht passieren",
     "answer_choices": {
-      "a": "The equilibrium price decreases",
-      "b": "The equilibrium quantity decreases",
-      "c": "The equilibrium price increases",
-      "d": "The equilibrium quantity increases",
-      "e": "None of the other answers is correct.\n\nVersion 62 Page 5 of 8\n\nMicroeconomics A\nSpring 2020"
+      "a": "Der Gleichgewichtspreis nimmt ab",
+      "b": "Die Gleichgewichtsmenge nimmt ab",
+      "c": "Der Gleichgewichtspreis nimmt zu",
+      "d": "Die Gleichgewichtsmenge nimmt zu",
+      "e": "Keine der anderen n ist korrekt.\n\nVersion 62 Page 5 of 8\n\nMikroökonomik A\nFSS 2020"
     },
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -477,7 +477,7 @@
         "page_number": 5,
         "rect": [
           45.0,
-          631.47,
+          637.51,
           560.28,
           806.89
         ],
@@ -490,13 +490,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 18,
-    "question_text": "Consider a quasilinear economy in which the market supply is S(p) and the market demand is\nD(p). Suppose that a subsidy of 5 per unit of good traded is paid to the respective buyer. Then\nthe following equation holds for the equilibrium consumer price pD",
+    "question_text": "Betrachten Sie eine quasilineare Ökonomie mit dem Marktangebot S(p) und der Marktnachfrage\nD(p). Nehmen Sie an, dass eine Subvention in Höhe von 5 pro Einheit des gehandelten Gutes\nan den jeweiligen Käufer bezahlt wird. Dann gilt folgende Gleichung für den GleichgewichtsKonsumentenpreis pD",
     "answer_choices": {
       "a": "D(pD) = S(pD + 5)",
       "b": "D(pD) = S(pD −5)",
       "c": "D(pD + 5) = S(pD)",
       "d": "D(pD −5) = S(pD)",
-      "e": "None of the other answers is correct"
+      "e": "Keine der anderen n ist korrekt"
     },
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -508,7 +508,7 @@
           45.0,
           92.04,
           560.28,
-          204.4
+          217.31
         ],
         "cropped": true
       }
@@ -519,7 +519,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 19,
-    "question_text": "Consider a quasilinear economy with the market supply S(p) = max{0, 3p −2} and the market\ndemand D(p) = max{0, 5 −4p}. We denote by t the smallest tax rate such that the equilibrium\nquantity equals 0. Then the following holds",
+    "question_text": "Betrachten Sie eine quasilineare Ökonomie mit dem Marktangebot S(p) = max{0, 3p −2} und\nder Marktnachfrage D(p) = max{0, 5 −4p}. Wir bezeichnen mit t den kleinsten Stücksteuersatz,\nbei dem die im Gleichgewicht mit Steuer gehandelte Menge gleich 0 ist. Dann gilt",
     "answer_choices": {
       "a": "t = 7/12",
       "b": "t = 11/12",
@@ -535,9 +535,9 @@
         "page_number": 6,
         "rect": [
           45.0,
-          204.4,
+          217.31,
           560.28,
-          316.89
+          330.75
         ],
         "cropped": true
       }
@@ -548,7 +548,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 20,
-    "question_text": "Consider a quasilinear economy with the market supply S(p) = max{0, 5p −4} and the market\ndemand D(p) = max{0, 3 −2p}. In equilibrium the aggregate welfare is equal to",
+    "question_text": "Betrachten Sie eine quasilineare Ökonomie mit dem Marktangebot S(p) = max{0, 5p −4}\nund der Marktnachfrage D(p) = max{0, 3 −2p}. Im Gleichgewicht ist die Gesamtwohlfahrt\ngleich",
     "answer_choices": {
       "a": "7/20",
       "b": "1/3",
@@ -564,9 +564,9 @@
         "page_number": 6,
         "rect": [
           45.0,
-          316.89,
+          330.75,
           560.28,
-          417.43
+          444.2
         ],
         "cropped": true
       }
@@ -577,7 +577,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 21,
-    "question_text": "Consider a quasilinear economy with the market supply S(p) = max{0, 5p −4} and the market\ndemand D(p) = max{0, 4 −3p}. In equilibrium the aggregate consumer surplus is equal\nto",
+    "question_text": "Betrachten Sie eine quasilineare Ökonomie mit dem Marktangebot S(p) = max{0, 5p −4} und\nder Marktnachfrage D(p) = max{0, 4 −3p}. Im Gleichgewicht ist die gesamte Konsumentenrente gleich",
     "answer_choices": {
       "a": "1/6",
       "b": "1/10",
@@ -593,9 +593,9 @@
         "page_number": 6,
         "rect": [
           45.0,
-          417.43,
+          444.2,
           560.28,
-          530.06
+          556.82
         ],
         "cropped": true
       }
@@ -606,7 +606,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 22,
-    "question_text": "A consumer’s preferences over consumption streams (c0, c1) are represented by the utility\nfunction u(c0, c1) = min{c0, 11c1}.1 The consumer’s initial endowment is the income stream\n(Y0, Y1) = (1, 0). The consumer can save money at the interest rate r = 10%. The following\nconsumption quantity is optimal in period 1",
+    "question_text": "Die Präferenzen eines Konsumenten über Konsumströme (c0, c1) werden durch die Nutzenfunktion u(c0, c1) = min{c0, 11c1}1 dargestellt. Die Erstausstattung des Konsumenten ist der\nEinkommenstrom (Y0, Y1) = (1, 0). Der Konsument kann zum Zinssatz r = 10% Geld sparen.\nDie folgende Konsummenge ist optimal in Periode 1",
     "answer_choices": {
       "a": "1",
       "b": "11",
@@ -622,9 +622,9 @@
         "page_number": 6,
         "rect": [
           45.0,
-          530.06,
+          556.82,
           560.28,
-          655.57
+          681.27
         ],
         "cropped": true
       }
@@ -635,13 +635,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 23,
-    "question_text": "A consumer’s preferences over consumption streams (c0, c1) are represented by the utility\n1 function u(c0, c1) = √c0 + 2 √c1. The consumer can save and borrow money at the interest rate\nr. At which interest rate r is the consumer indifferent between obtaining the initial endowment\n(2, 7) and receiving the initial endowment (3, 1)?",
+    "question_text": "Die Präferenzen einer Konsumentin über Konsumströme (c0, c1) werden durch die Nutzenfunk-\n1 tion u(c0, c1) = √c0 + 2 √c1 dargestellt. Die Konsumentin kann zum Zinssatz r sparen bzw.\nKredite aufnehmen. Bei welchem Zinssatz r ist es der Konsumentin egal, ob sie die Erstausstattung (2, 7) oder die Erstausstattung (3, 1) erhält?",
     "answer_choices": {
       "a": "r = 300%",
       "b": "r = 400%",
       "c": "r = 500%",
       "d": "r = 600%",
-      "e": "r = 700%.\n\nVersion 62 Page 6 of 8\n\nMicroeconomics A\nSpring 2020"
+      "e": "r = 700%.\n\nVersion 62 Page 6 of 8\n\nMikroökonomik A\nFSS 2020"
     },
     "solution": "c",
     "source_file": "Mikro A_2020_1.pdf",
@@ -651,7 +651,7 @@
         "page_number": 6,
         "rect": [
           45.0,
-          655.57,
+          681.27,
           560.28,
           806.89
         ],
@@ -664,7 +664,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 24,
-    "question_text": "A consumer’s preferences over consumption bundles (x1, x2) are represented by the utility\nfunction u(x1, x2) = min{3x1, 5x2}. The price of good 1 is equal to 6. The consumer’s income is\nequal to 1. Then the consumer’s demand function for good 2 is given as follows",
+    "question_text": "Die Präferenzen einer Konsumentin über Güterbündel (x1, x2) werden durch die Nutzenfunktion u(x1, x2) = min{3x1, 5x2} dargestellt. Der Preis von Gut 1 ist gleich 6. Das Einkommen der\nKonsumentin ist gleich 1. Die Nachfragefunktion der Konsumenten für Gut 2 ist dann wie folgt\ngegeben",
     "answer_choices": {
       "a": "p2 7→ 10+p21",
       "b": "p2 7→ 14+p21",
@@ -682,7 +682,7 @@
           45.0,
           92.04,
           560.28,
-          224.55
+          236.51
         ],
         "cropped": true
       }
@@ -693,7 +693,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 25,
-    "question_text": "Refering to the good the price of which is changed, the substitution effect of a price decrease is\nalways",
+    "question_text": "Bezogen auf das Gut, dessen Preis verändert wird, ist der Substitutionseffekt einer Preissenkung\nstets",
     "answer_choices": {
       "a": "≤0",
       "b": "< 0",
@@ -709,9 +709,9 @@
         "page_number": 7,
         "rect": [
           45.0,
-          224.55,
+          236.51,
           560.28,
-          324.44
+          336.08
         ],
         "cropped": true
       }
@@ -722,7 +722,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 26,
-    "question_text": "A consumer’s preferences over consumption bundles is represented by the utility function\nu(x1, x2) = (x1)4(x2)5. The consumer’s income is given by the market value of her initial endowment (6, 7). Let p1 and p2 denote the prices of the goods. The consumer will buy additional\nunits of good 1 (i.e., she will consume more than 6 units of good 1) if and only if",
+    "question_text": "Ein Konsument hat Präferenzen über Güterbündel, die durch die Nutzenfunktion u(x1, x2) =\n(x1)4(x2)5 dargestellt werden. Das Einkommen des Konsumenten ergibt sich aus dem Marktwert der Erstausstattung (6, 7). Seien p1 und p2 die Preise der beiden Güter. Der Konsument\nwird genau dann zusätzliche Einheiten von Gut 1 kaufen (d.h. mehr als 6 Einheiten von Gut 1\nkonsumieren), wenn",
     "answer_choices": {
       "a": "14p2 > 15p1",
       "b": "35p2 > 24p1",
@@ -738,9 +738,9 @@
         "page_number": 7,
         "rect": [
           45.0,
-          324.44,
+          336.08,
           560.28,
-          448.91
+          473.4
         ],
         "cropped": true
       }
@@ -751,7 +751,7 @@
     "year": "2020",
     "term": "T1",
     "question_number": 27,
-    "question_text": "Suppose that, in the leisure-consumption model, k denotes the consumption spending of a\nconsumer, l denotes her leisure time, T her time budget, k0 her available income if she does\nnot work, and w her wage per unit of work time. Then her budget constraint is given by the\nfollowing combination of inequalities",
+    "question_text": "Wenn im Freizeit-Konsum-Modell für einen Konsumenten die Variable k die Konsumausgaben,\nl die Anzahl der Freizeitstunden, T das Zeitbudget, k0 das ohne Arbeit verfügbare Einkommen\nund w den Lohn pro Zeiteinheit bezeichnet, dann ist die Budgetbedingung durch folgende\nKombination von Ungleichungen gegeben",
     "answer_choices": {
       "a": "k + wl ≤k0 + wT und l ≤T",
       "b": "k + wl ≤k0 + T und wl ≤T",
@@ -767,9 +767,9 @@
         "page_number": 7,
         "rect": [
           45.0,
-          448.91,
+          473.4,
           560.28,
-          572.43
+          596.92
         ],
         "cropped": true
       }
@@ -780,13 +780,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 28,
-    "question_text": "A consumer has perfect-substitute preferences over bundles (x1, x2) (with xi ≥0 for i = 1, 2).\nThe following utility function does not represent the consumer’s preferences",
+    "question_text": "Ein Konsument hat perfekte-Substitute-Präferenzen über Güterbündel (x1, x2) (mit xi ≥0 für\ni = 1, 2). Die folgende Nutzenfunktion u repräsentiert nicht die Präferenzen des Konsumenten",
     "answer_choices": {
       "a": "u(x1, x2) = (x1)2 + (x2)2",
       "b": "u(x1, x2) = (x1 + x2)2",
       "c": "u(x1, x2) = √x1 + x2",
       "d": "u(x1, x2) = min{x1, x2} + max{x1, x2}",
-      "e": "u(x1, x2) = x1 + x2"
+      "e": "u(x1, x2) = x1 + x2\n\nVersion 62 Page 7 of 8\n\nMikroökonomik A\nFSS 2020"
     },
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -796,9 +796,9 @@
         "page_number": 7,
         "rect": [
           45.0,
-          572.43,
+          596.92,
           560.28,
-          673.48
+          806.89
         ],
         "cropped": true
       }
@@ -809,42 +809,13 @@
     "year": "2020",
     "term": "T1",
     "question_number": 29,
-    "question_text": "A consumer has monotonic and convex preferences ⪰over consumption bundles (x1, x2)\n(with xi ≥0 for i = 1, 2). Assume that (3, 6) ⪰(7, 3) and (7, 3) ⪰(3, 6). Then the following\nholds",
+    "question_text": "Ein Konsument hat die monotone und konvexe Präferenzrelation ⪰über Güterbündel (x1, x2)\n(mit xi ≥0 für i = 1, 2). Nehmen Sie an, dass (3, 6) ⪰(7, 3) und (7, 3) ⪰(3, 6). Dann\ngilt",
     "answer_choices": {
       "a": "(7, 3) ⪰(8, 2)",
       "b": "(4, 4) ⪰(7, 3)",
       "c": "(3, 5) ⪰(8, 2)",
       "d": "(4, 4) ⪰(8, 2)",
-      "e": "(3, 5) ⪰(7, 3)\n\nVersion 62 Page 7 of 8\n\nMicroeconomics A\nSpring 2020"
-    },
-    "solution": "a",
-    "source_file": "Mikro A_2020_1.pdf",
-    "pdf_regions": [
-      {
-        "page_index": 6,
-        "page_number": 7,
-        "rect": [
-          45.0,
-          673.48,
-          560.28,
-          806.89
-        ],
-        "cropped": true
-      }
-    ],
-    "page_number": 7
-  },
-  "2020_T1_A30": {
-    "year": "2020",
-    "term": "T1",
-    "question_number": 30,
-    "question_text": "A consumer has the utility function u(x1, x2) = (x1)c(x2)d over bundles (x1, x2), where c > 0\nand d > 0 are given parameters. At each point (x1, x2) with x1 > 0 and x2 > 0, the consumer\nhas the following marginal rate of substitutions of good 2 for good 1",
-    "answer_choices": {
-      "a": "MRS12(x1, x2) = −cd x2x1",
-      "b": "MRS12(x1, x2) = −cd x1x2",
-      "c": "MRS12(x1, x2) = dc x2x1",
-      "d": "MRS12(x1, x2) = dc x1x2",
-      "e": "MRS12(x1, x2) = − c+dc\n\nVersion 62 Page 8 of 8"
+      "e": "(3, 5) ⪰(7, 3)"
     },
     "solution": "a",
     "source_file": "Mikro A_2020_1.pdf",
@@ -854,7 +825,36 @@
         "page_number": 8,
         "rect": [
           45.0,
-          89.32,
+          91.91,
+          560.28,
+          203.67
+        ],
+        "cropped": true
+      }
+    ],
+    "page_number": 8
+  },
+  "2020_T1_A30": {
+    "year": "2020",
+    "term": "T1",
+    "question_number": 30,
+    "question_text": "Eine Konsumentin hat die Nutzenfunktion u(x1, x2) = (x1)c(x2)d über Güterbündel (x1, x2),\nwobei c > 0 und d > 0 vorgegebene Parameter sind. An jeder Stelle (x1, x2) mit x1 > 0\nund x2 > 0 hat die Konsumentin die folgende Grenzrate der Substitution von Gut 2 für Gut\n1",
+    "answer_choices": {
+      "a": "GRS12(x1, x2) = −cd x2x1",
+      "b": "GRS12(x1, x2) = −cd x1x2",
+      "c": "GRS12(x1, x2) = dc x2x1",
+      "d": "GRS12(x1, x2) = dc x1x2",
+      "e": "GRS12(x1, x2) = − c+dc\n\nVersion 62 Page 8 of 8"
+    },
+    "solution": "a",
+    "source_file": "Mikro A_2020_1.pdf",
+    "pdf_regions": [
+      {
+        "page_index": 7,
+        "page_number": 8,
+        "rect": [
+          45.0,
+          203.67,
           560.28,
           806.89
         ],
